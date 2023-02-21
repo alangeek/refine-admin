@@ -11,6 +11,8 @@ This [refine](https://github.com/pankod/refine) project was generated with [supe
 
 ## Getting Started
 
+![refine-Build-your-React-based-CRUD-applications-without-constraints-](https://user-images.githubusercontent.com/48631681/220461253-e887fb7e-cb35-4f50-ae8c-452c42133ee8.png)
+
 **refine** is a React-based framework for building data-intensive applications in no time ✨
 
 Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
@@ -42,7 +44,6 @@ To learn more about **refine**, please check out the [Documentation](https://ref
 - **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
 - **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
 - **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-
 
 ## License
 
